@@ -16,10 +16,10 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./Writeup_Images/visualization.PNG "Visualization"
-[image2]: ./Writeup_Images/ClassID.png "ClassID"
-[image3]: ./Writeup_Images/grayscale.png "grayscale"
-[image4]: ./Writeup_Images/HDR.png "HDR"
-[image5]: ./Writeup_Images/accuracy.png "accuracy"
+[image2]: ./Writeup_Images/ClassID.PNG "ClassID"
+[image3]: ./Writeup_Images/grayscale.PNG "grayscale"
+[image4]: ./Writeup_Images/HDR.PNG "HDR"
+[image5]: ./Writeup_Images/accuracy.PNG "accuracy"
 [image6]: ./New-images/1.jpg "Traffic Sign 1"
 [image7]: ./New-images/2.jpg "Traffic Sign 2"
 [image8]: ./New-images/3.jpg "Traffic Sign 3"
