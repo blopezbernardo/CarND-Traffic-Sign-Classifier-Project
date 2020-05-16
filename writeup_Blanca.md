@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./Writeup_Images/visualization.png "Visualization"
+[image1]: ./Writeup_Images/visualization.PNG "Visualization"
 [image2]: ./Writeup_Images/ClassID.png "ClassID"
 [image3]: ./Writeup_Images/grayscale.png "grayscale"
 [image4]: ./Writeup_Images/HDR.png "HDR"
